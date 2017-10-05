@@ -13,7 +13,7 @@ body {
 }
 
 .background {
-  background: url(./images/background.jpg);
+  background: url(./Images/background.jpg);
   background-size: contain;
   width: 100%;
   height: 100%;
@@ -70,7 +70,7 @@ span {
   height: 100%;
   z-index: -2;
   filter: blur(32px);
-  background: url(./images/background.jpg) center top;
+  background: url(./Images/background.jpg) center top;
   background-size: cover;
   background-attachment: fixed;
 }
